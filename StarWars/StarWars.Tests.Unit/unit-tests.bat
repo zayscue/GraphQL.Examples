@@ -1,4 +1,4 @@
-﻿echo off
+echo off
 title Code Coverage Report Generation Script
 :: See the ttile at the top.
 echo Starting...
