@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  starwars.api:
+    image: starwars.api
+    build:
+      context: ./StarWars.Api
+      dockerfile: Dockerfile
